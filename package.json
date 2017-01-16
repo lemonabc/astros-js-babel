@@ -1,0 +1,14 @@
+{
+    "name": "astros-js-babel",
+    "version": "0.0.1",
+    "description": "使astros支持es6语法",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "babel-core": "~6.10.4"
+    },
+    "author": "",
+    "license": "ISC"
+}
